@@ -15,7 +15,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "html-inline": "^1.2.0"
+    "html-inline": "^1.2.0",
+    "cheerio": "~0.22.0",
+    "lodash": "~4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
